@@ -1,7 +1,11 @@
 NIM Ganjil Dataset Titanic:
 1. Hitung koefisien korelasi antara Age dan Fare.
 2. Visualisasikan hubungan tersebut menggunakan Scatter Plot
+3. Semua File Diatas Dibuat dengan python 
+4. kumpulkan di https://forms.gle/WRFPg3tHv2JQxSqeA sesuai jam perkuliahan 
 
 NIM Genap Dataset Iris:
 1. Hitung koefisien korelasi antara SepalLengthCm dan SepalWidthCm.
 2. Visualisasikan hubungan tersebut menggunakan Scatter Plot
+3. Semua File Diatas Dibuat dengan python
+4. kumpulkan di https://forms.gle/WRFPg3tHv2JQxSqeA sesuai jam perkuliahan 
